@@ -327,6 +327,8 @@ Risks and Assumptions:
 
 By filling out an Opportunity Canvas like this, the product team gains a clearer understanding of the opportunity's scope, the proposed solution's potential, and the metrics by which success will be measured. It also provides a visual reference for ongoing discussions and decision-making throughout the product development process.
 
+![Opportunity Canvas](/Product-Led/PM Opportunity Canvas.png "Opportunity Canvas")
+
 ## The Product Process
 
 + Understand the business goal
