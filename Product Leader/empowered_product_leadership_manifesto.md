@@ -1,31 +1,33 @@
 # The Empowered Product Leadership Manifesto
+
 We are uncovering better ways of building successful products and creating empowered teams by doing it and helping others do it. Through this work, we have come to value:
 
 1. Outcomes over outputs
-   Focus on delivering meaningful business and customer results, not just shipping features.
+   *Focus on delivering meaningful business and customer results, not just shipping features.*
 
 2. Empowered product teams over managed delivery teams
-   Foster autonomy, ownership, and accountability within teams rather than simply assigning tasks.
+   *Foster autonomy, ownership, and accountability within teams rather than simply assigning tasks.*
 
 3. Vision and strategy over reactive roadmaps
-   Inspire teams with a clear vision and strategic alignment instead of dictating detailed plans.
+   *Inspire teams with a clear vision and strategic alignment instead of dictating detailed plans.*
 
 4. Continuous discovery over fixed requirements
-   Regularly validate ideas through experimentation, research, and customer feedback instead of relying solely on upfront assumptions.
+   *Regularly validate ideas through experimentation, research, and customer feedback instead of relying solely on upfront assumptions.*
 
 5. Collaboration over silos
-   Product managers, designers, and engineers work together as problem solvers rather than working in isolation.
+   *Product managers, designers, and engineers work together as problem solvers rather than working in isolation.*
 
 6. Leadership through context over control
-   Provide clarity on purpose, goals, and priorities rather than micromanaging decisions.
+   *Provide clarity on purpose, goals, and priorities rather than micromanaging decisions.*
 
 7. Innovation over conformity
-   Encourage creative solutions to problems instead of settling for "the way we've always done it."
+   *Encourage creative solutions to problems instead of settling for "the way we've always done it."*
 
 8. Customer-centricity over internal priorities
-   Deeply understand and solve customer problems rather than focusing exclusively on business or stakeholder demands.
+   *Deeply understand and solve customer problems rather than focusing exclusively on business or stakeholder demands.*
 
-**That is, while there is value in the items on the right, we value the items on the left more.**
+> [!IMPORTANT]
+> **That is, while there is value in the items on the right, we value the items on the left more.**
 
 ## Supporting Principles
 
